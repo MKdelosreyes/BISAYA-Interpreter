@@ -1,0 +1,14 @@
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\obj\Debug\net8.0\BISAYA++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\obj\Debug\net8.0\BISAYA++.AssemblyInfoInputs.cache
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\obj\Debug\net8.0\BISAYA++.AssemblyInfo.cs
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\obj\Debug\net8.0\BISAYA++.csproj.CoreCompileInputs.cache
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\bin\Debug\net8.0\BISAYA++.exe
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\bin\Debug\net8.0\BISAYA++.deps.json
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\bin\Debug\net8.0\BISAYA++.runtimeconfig.json
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\bin\Debug\net8.0\BISAYA++.dll
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\bin\Debug\net8.0\BISAYA++.pdb
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\obj\Debug\net8.0\BISAYA++.dll
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\obj\Debug\net8.0\refint\BISAYA++.dll
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\obj\Debug\net8.0\BISAYA++.pdb
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\obj\Debug\net8.0\BISAYA++.genruntimeconfig.cache
+C:\Users\Karylle\Documents\Documents\BSCS-3\2nd Sem\Programming Languages - CS322\BISAYA++\BISAYA++\obj\Debug\net8.0\ref\BISAYA++.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karylle\\Documents\\Documents\\BSCS-3\\2nd Sem\\Programming Languages - CS322\\BISAYA\u002B\u002B\\Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{987701FA-3DF1-4B49-9449-FE61B46E42A2}|Tool.csproj|c:\\users\\karylle\\documents\\documents\\bscs-3\\2nd sem\\programming languages - cs322\\bisaya\u002B\u002B\\tool\\generateast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987701FA-3DF1-4B49-9449-FE61B46E42A2}|Tool.csproj|solutionrelative:generateast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerateAST.cs",
+              "DocumentMoniker": "C:\\Users\\Karylle\\Documents\\Documents\\BSCS-3\\2nd Sem\\Programming Languages - CS322\\BISAYA\u002B\u002B\\Tool\\GenerateAST.cs",
+              "RelativeDocumentMoniker": "GenerateAST.cs",
+              "ToolTip": "C:\\Users\\Karylle\\Documents\\Documents\\BSCS-3\\2nd Sem\\Programming Languages - CS322\\BISAYA\u002B\u002B\\Tool\\GenerateAST.cs",
+              "RelativeToolTip": "GenerateAST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:30:37.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
